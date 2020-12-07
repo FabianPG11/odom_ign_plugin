@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fabian/robotont_ws/src/robotont_gazebo/ign_worlds/odom_ign_plugin/build/devel/setup.sh
